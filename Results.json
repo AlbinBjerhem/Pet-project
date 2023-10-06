@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Albin Bjerhem",
+    "score": [
+      {
+        "scores": [
+          {
+            "animal": "Hund",
+            "finalScore": 31,
+            "percentage": "32.63%"
+          },
+          {
+            "animal": "Katt",
+            "finalScore": 29,
+            "percentage": "30.53%"
+          },
+          {
+            "animal": "Kanin",
+            "finalScore": 24,
+            "percentage": "25.26%"
+          },
+          {
+            "animal": "Fisk",
+            "finalScore": 11,
+            "percentage": "11.58%"
+          }
+        ],
+        "date": "2023-10-06, 08:50:57"
+      }
+    ]
+  },
+  {
+    "name": "A B",
+    "score": [
+      {
+        "scores": [
+          {
+            "animal": "Hund",
+            "finalScore": 29,
+            "percentage": "33.72%"
+          },
+          {
+            "animal": "Katt",
+            "finalScore": 26,
+            "percentage": "30.23%"
+          },
+          {
+            "animal": "Fisk",
+            "finalScore": 18,
+            "percentage": "20.93%"
+          },
+          {
+            "animal": "Kanin",
+            "finalScore": 13,
+            "percentage": "15.12%"
+          }
+        ],
+        "date": "2023-10-06, 09:04:13"
+      }
+    ]
+  }
+]

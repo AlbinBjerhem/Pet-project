@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')();
-const questions = require('../Questions.json');
+const questions = require('./Questions.json');
 const fs = require('fs');
 
 console.clear();
