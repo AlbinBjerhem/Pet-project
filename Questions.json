@@ -1,0 +1,227 @@
+[
+  {
+    "quizzQuestion": "1. Tycker du om att gå på morgonpromenader?",
+    "ja": [
+      3,
+      1,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      2
+    ]
+  },
+  {
+    "quizzQuestion": "2. Är du intresserad av heminredning?",
+    "ja": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "nej": [
+      2,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "3. Har du en trädgård ett djur skulle kunna vara i?",
+    "ja": [
+      1,
+      3,
+      3,
+      0
+    ],
+    "nej": [
+      1,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "quizzQuestion": "4. Har du mycket lösa sladdar hemma?",
+    "ja": [
+      1,
+      0,
+      0,
+      3
+    ],
+    "nej": [
+      1,
+      3,
+      3,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "5. Har du potentiellt giftiga växter hemma?",
+    "ja": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "nej": [
+      1,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "6. Är du ofta hemifrån under längre perioder?",
+    "ja": [
+      0,
+      0,
+      0,
+      2
+    ],
+    "nej": [
+      3,
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "7. Finns det barn i hemmet?",
+    "ja": [
+      1,
+      1,
+      3,
+      2
+    ],
+    "nej": [
+      3,
+      3,
+      0,
+      1
+    ]
+  },
+  {
+    "quizzQuestion": "8. Är du pälsallergiker?",
+    "ja": [
+      0,
+      1,
+      0,
+      3
+    ],
+    "nej": [
+      3,
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "9. Vill du vara social med ditt djur?",
+    "ja": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      1,
+      1,
+      3
+    ]
+  },
+  {
+    "quizzQuestion": "10. Är det lyhört mot grannar hemma?",
+    "ja": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "nej": [
+      3,
+      2,
+      1,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "11. Vill du kunna tävla med ditt djur?",
+    "ja": [
+      3,
+      1,
+      2,
+      0
+    ],
+    "nej": [
+      1,
+      2,
+      1,
+      2
+    ]
+  },
+  {
+    "quizzQuestion": "12. Vill du kunna ta med ditt djur ut?",
+    "ja": [
+      3,
+      2,
+      1,
+      0
+    ],
+    "nej": [
+      0,
+      2,
+      3,
+      3
+    ]
+  },
+  {
+    "quizzQuestion": "13. Bor du centralt i en stad?",
+    "ja": [
+      2,
+      1,
+      1,
+      3
+    ],
+    "nej": [
+      3,
+      3,
+      1,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "14. Är någon du känner eller är din partner pälsallergisk?",
+    "ja": [
+      0,
+      1,
+      0,
+      3
+    ],
+    "nej": [
+      3,
+      3,
+      2,
+      0
+    ]
+  },
+  {
+    "quizzQuestion": "15. Vill du kunna köpa kläder åt ditt djur?",
+    "ja": [
+      3,
+      2,
+      0,
+      0
+    ],
+    "nej": [
+      0,
+      0,
+      1,
+      3
+    ]
+  }
+]
